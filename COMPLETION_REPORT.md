@@ -477,8 +477,6 @@ Big Macro/
 
 **You now have:**
 - ✅ 22 specialized enzyme parameter calculators
-- ✅ 1,033 lines of production code
-- ✅ 2,000+ lines of documentation
 - ✅ 9+ comprehensive examples
 - ✅ Full test coverage (all passing)
 - ✅ Complete API reference
