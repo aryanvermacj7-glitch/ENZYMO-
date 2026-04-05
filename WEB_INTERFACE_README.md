@@ -1,10 +1,10 @@
-# 🧬 Enzyme Calculator Web Interface - Quick Start
+#  Enzyme Calculator Web Interface - Quick Start
 
 ## What's New
 
 Your enzyme calculator is now accessible through a modern web interface! No more command-line required.
 
-## ✅ What You Have
+##  What You Have
 
 ### Backend (Complete ✓)
 - **Flask Web Server** - `enzyme_calculator_web.py`
@@ -27,7 +27,7 @@ Your enzyme calculator is now accessible through a modern web interface! No more
   - Real-time API calls
   - Result formatting
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Step 1: Install Dependencies
 ```bash
@@ -57,7 +57,7 @@ Open your web browser and go to:
 http://localhost:5000
 ```
 
-## 🎯 Available Calculators
+##  Available Calculators
 
 ### 1. **Michaelis-Menten Kinetics**
    - Calculate velocity from substrate concentration
@@ -87,14 +87,14 @@ http://localhost:5000
    - Sequential ordered mechanism
    - Ping-Pong (double displacement)
 
-## 💡 Using the Interface
+##  Using the Interface
 
 1. **Select a Calculator** - Click the tab for the calculator you want
 2. **Enter Parameters** - Fill in the required values
 3. **Click Calculate** - Get instant results
 4. **View Results** - Results display with proper formatting and units
 
-## 📊 Example Workflow
+## Example Workflow
 
 ### Calculate Michaelis-Menten Velocity
 1. Go to "Michaelis-Menten" tab
@@ -106,7 +106,7 @@ http://localhost:5000
 4. Click "Calculate"
 5. Result: Velocity = calculated value in µM/s
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Port Already in Use
 If port 5000 is already in use, edit `enzyme_calculator_web.py`:
@@ -147,16 +147,16 @@ POST /api/calculate/multisubstrate/sequential
 POST /api/calculate/multisubstrate/pingpong
 ```
 
-## 🎨 Interface Features
+##  Interface Features
 
-- ✅ **Responsive Design** - Works on desktop, tablet, mobile
-- ✅ **Gradient Theme** - Modern purple/blue color scheme
-- ✅ **Real-time Validation** - Input validation on forms
-- ✅ **Error Handling** - Clear error messages
-- ✅ **Scientific Notation** - Large numbers displayed in exponential format
-- ✅ **Smooth Animations** - Tab transitions and result displays
+-  **Responsive Design** - Works on desktop, tablet, mobile
+-  **Gradient Theme** - Modern purple/blue color scheme
+-  **Real-time Validation** - Input validation on forms
+-  **Error Handling** - Clear error messages
+-  **Scientific Notation** - Large numbers displayed in exponential format
+- **Smooth Animations** - Tab transitions and result displays
 
-## 📚 File Structure
+##  File Structure
 
 ```
 Big Macro/
@@ -170,7 +170,7 @@ Big Macro/
 └── requirements.txt
 ```
 
-## 🔄 Full System Overview
+##  Full System Overview
 
 ```
 User Browser
@@ -197,7 +197,7 @@ Browser Display (JavaScript Result Handler)
     └── User Display
 ```
 
-## 🚀 Next Steps
+##  Next Steps
 
 Your enzyme calculator is ready to use! 
 
@@ -206,7 +206,7 @@ Your enzyme calculator is ready to use!
 - **Export** results if needed (copy from browser)
 - **Share** the URL - anyone on your network can access it!
 
-## 📞 Support
+##  Support
 
 For issues with:
 - **Calculations**: Check ENZYME_CALCULATOR_REFERENCE.md
@@ -215,5 +215,5 @@ For issues with:
 
 ---
 
-**Happy calculating! 🧪**
+**Happy calculating!**
 
